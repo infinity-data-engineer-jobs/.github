@@ -121,8 +121,8 @@ GPT API
 🎨구현 목적 : Django ORM을 활용한 데이터 모델 구성, API 호출을 통한 크롤링 작업 실행 구현, REST API를 통한 서버-클라이언트간 데이터 전달 과정을 구성하였습니다.
 
 🚀Database ERD
+![Image](https://github.com/user-attachments/assets/55a9d325-599d-4921-9d00-0e38d501d10e)
 
-![image.png](attachment:90c22746-8df3-43db-888c-0c4cf1ae51f2:image.png)
 
 ## 프론트엔드 구성
 🎨구현 목적 : 데이터 엔지니어와 관련된 채용 공고를 수집한 뒤, 그 내용을 시각화하여 사용자가 직관적으로 직무 정보를 파악할 수 있도록 하기 위함입니다. 사용자에게 데이터를 설명하는 데 있어 텍스트 이상의 전달력을 확보하기 위해 막대 차트 및 워드 클라우드 형태의 시각화를 도입했습니다.
@@ -158,4 +158,4 @@ GPT API
 
 # 5. 결과
 ## 시각화 세부 결과
-![image.png](attachment:b6f51428-405d-42cb-a518-5be18270dc89:image.png)
+<img width="1343" alt="Image" src="https://github.com/user-attachments/assets/ce7bf0b7-f83b-42bb-b397-dd6bb5587a57" />
